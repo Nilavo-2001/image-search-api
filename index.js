@@ -82,7 +82,7 @@ async function listProductSets() {
         console.log(productSet);
     });
 }
-//listProductSets();
+listProductSets();
 
 
 
@@ -127,7 +127,6 @@ async function getSimilarProductsFile() {
     });
     console.log('Search Image:', filePath);
     console.log(response.responses[0].error);
-    return;
     const results = response['responses'][0]['productSearchResults']['results'];
     console.log('\nSimilar product information:');
     results.forEach(result => {
@@ -137,4 +136,4 @@ async function getSimilarProductsFile() {
         console.log('Product category:', result['product'].productCategory);
     });
 }
-getSimilarProductsFile();
+//getSimilarProductsFile();
