@@ -1,14 +1,14 @@
 const cred = {
     "type": "service_account",
-    "project_id": "marketplace-384209",
-    "private_key_id": "dfce038b78f37e8fe702aac38ac5899a4bc6278c",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDhiGOmZBeoMzps\nvg9SOVlzaKzdJX/H4/AQfGI37bdPazJLjqQHAF9kxl/CyFHR42LSxR8iRbJcOFaL\npJPDkyxApSUDXovOx2DO2syi6qKEcIO02J/t9EgLQ1A1CXTsVlc8uD8aNshHNBai\npB1294M9ReOvCkiM3LrbZJFU+Rk/z90IZpPnn9NRno+6UbZoA0fyU+AiaVTwFe/p\nRyKPmQeMLpWeAil/7GINxVq1y1iVKaMFb/BRK0zJaCpIiEbpKpVilxd3/M23viei\nX0cs7wC83DwdYTmFLXVM9UHTJflLF23RM8Yzn+MxS17TKEKy4RuAdEosqDpgGgqv\nVIPI/P+rAgMBAAECggEAPnkzcWIEk5ktM/Yp9FLijm+OguviS5K+azKpWmjFAIDn\nO7rVgQL/acDxwdkPoR5lv5DPIQVBdP4+Kwx5yhE4juewKxDDlZHxJRvC19Y7EojA\nUxY2pwml80jALRDjjJwWKkG3aSGHtQGey4q+hrflaNG1UkV891glgqSHBYzDC8OZ\nXyHs2lDsaEZbvOzHyiJUViFBZtrF4RCciVzbQHTDl6g1GhS9APWeGFFv9rzaca13\nrXq+Y83LGhRv7sD1J1GccXum8OLhMuRmBzkodMzydt0RdQSmDWhfewxB7zo+FJuO\n/OvFakA9mz2gTBDOdCYwKw5N2ZH1xFpYJnqgSYiK0QKBgQD9Le1cWZbWAzFtS5A6\n/rd21d3ev4vH31jAQMRckA4c2ZGcSV+u86CZvXb5ixB7SPi+OodlluQojmGVL19/\nWaYTP/w5h75EVk8Uu8tzAZttsP88EcZnJXOXbN56RsWT1p/qtBnEn1bMFnvSeIW8\n54oR4cqa33kYF4KL/9R5WVVJ9wKBgQDkC50By9TU5w0L0uXao/UAO28LvDXmsoFf\ndoPklILvQrvuKHiGe3MyE5AsbK+ClruwxcwzF72U/RHkRqNvtDL59HaXerlqpHND\nW+n+ckQLefmX+Xf5zReET3BPheMn51fm8jGiu1LShaB71NLTym2uI7DAQNytYIjg\n58+XTwMq7QKBgQCo83sQQ6DKlDrpqqFHHS+lF7cFrGFFMiBxu0bOVjt0uSPYXYaC\no4Wq0qqQgGKxQtLrbvdnrbf38HviKEjcHSEce3h/k7w+sjH3rhJoXswv+Qt6NIpn\nzrBCfp5AjvXOYE07PJBti79KVj6vB0qH8yNKJ5kinLqcfyPY9RH/IMQvpQKBgGz6\nm8qa9RfVXueynoOw7Mlynau3Au8/iRHs2jTnP/dFJfg3QPnLjw50SObh/bHjhMiC\njgYwpznHAsDbfQlJzT6kM/RKAsfS1P5ws08Uni352WxmHI61EzL4n4xxSE/uf5Rv\nU4cYDAltMHddCm+KAoZAqhwGIy97vY31WcBOUw41AoGAW3zuALB5NnjTJJcwBXAm\nzbBZkzXf+EjDcelXeIsuw1laxK/dTVNtd5VDaaskKGnyP+scV4L76RexGn3JCSgU\n0Gn2IbSehnV+0sULBiWCCjrLWDWNve11AqczvmCPQaHqHl/Keqjum3MKpoHRTmV0\nt6jF2YCzY8BwLWEaSEg+rS8=\n-----END PRIVATE KEY-----\n",
-    "client_email": "marketplace@marketplace-384209.iam.gserviceaccount.com",
-    "client_id": "114481502820319301561",
+    "project_id": "perfect-reserve-384308",
+    "private_key_id": "dd45634918785c7f85e357bbdebd46c06bea201d",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+YqxDe2Q2SBza\nsEkvUOXgE3KlQHyjL0BMhEj/0s3lb69fKX9IK9xYe+WiqB/UOyf2U7PPq2C0+xCS\n1h2KCVzwTuypVmyuwaspTNeZNWo+JE0FZdIvCcgXEdeKL7pwwGZNYQpiUyBhqYWY\n/faORlmpltCTaMqkCs7nRhjg04dg398B1Ez/gmgh9h5g54OpIbO4UrehuqzYRSFi\nQi7GfliucWv8JUu5CtDbOzqy/uUcfM2T3go3RyeLqrxmSX6b4plfk7P9ASY8BOdY\nRby+UA2ItOefaoCDUgRPKsT+behWm/XDoeUr7MoItZzLvijlfhE8zlpQ1SZGtbp8\n8vc81ZpNAgMBAAECggEAAVyprdE9U3QVnMI5FnkQ2UGvsXCc06VcDjq+CPJ5nZln\nGu+sOkMcuuympRC91Yysya1/R6OKuBC5ussu/+n25miHdzin42IoTCMsFwD+Ub58\nZzxQvMcS+DNHpEnuHq4JrVEIkXvVwKJv/bsHX1eFKa+WA2VIWdRn9tiWB08MFLcn\na6EC6CwTHistg8N12B1hhQdRObgw4Zl+IJTv56wfBgFcYZax9Iv5NsyJZwKyboKv\nxlkjMyVupZBZD4x7yLtnBHVydNPMS/bS3oBvN8vCIV/o8kO4tR8U0zm8/EDyxjak\nuKxXMM4OIqVUyr7XUE0yMLq4qnShvX9MCHK1wp5iYwKBgQD+d6JiOQ2hD3XYRZGy\nf9zMvDkEcYf/BYqXClfX54pYehPM7UxwzGx9qOYxnXWMKSXido7ml2xLQyVFPTfR\n8F5IolFl4ZwbjyCei6PG6k8v+hjxh8C0Y8dTs8Kd/cujhl0AwHCC4NI+KHdfGBys\nJ0Llw0NYlV2JJykkpywHu5ENywKBgQC/iDroN8TLq/U1HuXpazdzdN0KzpgYgXAn\n1Y8/4Kr/f5mQtOQ0+qwbQtluKoEwP6EGCIRCr0D9xpFRuOzohndwNlEA4ALHR1qu\n6Za80tVQVYbDfSJlR/kEtgl7Xpaa0RwjKWGxBnEgMnCZ8J+LOecs+LoF6bfB0bf6\niTMHK0d1RwKBgF0z7GIVi4xmYT9pm8fJVVIXzrp16t3ZZb2UqEAIKn/llsMEV28p\nMMOFzWp2xcskdx/PVN/Yrm2SlmAZ4AwhAieQbEforojZj5UCiGYfBAoKjIBKvKZV\ntXhO6wV7I88tM3tHAO6u8dKad7540merqbEGJ/CWJMBLe6JVKKdcZ/CpAoGAK52O\nLItmmSrTcAFVQc5Ulkoqe+eH4yy2qZuMP3Od/QjFo5pNzXK39o1GjjvHp4EV3hXa\naIUYO7IYLY/7Awh78mWsFJLujwrEr8gpt14bjWusgJ/iUUYOgvAhQKLNkPvFeIxX\n3sQkxrw1wBh3fHD3H9qUIfyTB+QGDVto71z/rMkCgYEApiI2KP/b9vpTQZFBhkwQ\nxwVTn2g42hYeyhFgI+hLQT+a6e5cR3na4l8QhviqkLFpsLbUKQShGf2Vxnn9H98j\nb1ampmJ9H3uIJSwZD3SnQVMbxDsCE3VttiPv5YMIri013yANXjWIQjwzINgVjbuX\nL3n7W6eRlwuZ/Kf0BwAaG0w=\n-----END PRIVATE KEY-----\n",
+    "client_email": "nilavo-bhattacharya@perfect-reserve-384308.iam.gserviceaccount.com",
+    "client_id": "114160109373958886611",
     "auth_uri": "https://accounts.google.com/o/oauth2/auth",
     "token_uri": "https://oauth2.googleapis.com/token",
     "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/marketplace%40marketplace-384209.iam.gserviceaccount.com"
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nilavo-bhattacharya%40perfect-reserve-384308.iam.gserviceaccount.com"
 }
 const CONFIG = {
     credentials: {
@@ -25,7 +25,7 @@ const client = new vision.ProductSearchClient(CONFIG);
 async function importProductSets() {
     const projectId = cred.project_id;
     const location = 'asia-east1';
-    const gcsUri = 'gs://cloud-samples-data/vision/product_search/product_catalog.csv';
+    const gcsUri = 'gs://image-api-test/vision_product_search_product_catalog_2.csv';
 
     // A resource that represents Google Cloud Platform location.
     const projectLocation = client.locationPath(projectId, location);
@@ -82,7 +82,7 @@ async function listProductSets() {
         console.log(productSet);
     });
 }
-listProductSets();
+//listProductSets();
 
 
 
@@ -96,8 +96,8 @@ async function getSimilarProductsFile() {
     const projectId = cred.project_id;
     const location = 'asia-east1';
     const productSetId = 'product_set0';
-    const productCategory = 'apparel';
-    const filePath = 'gs://cloud-ai-vision-data/product-search-tutorial/images/4690d31970ba11e8b615d20059124800.jpg';
+    const productCategory = 'apparel-v2';
+    const filePath = 'gs://image-api-test/sneakers-shoes.jpg';
     const filter = '';
     const productSetPath = client.productSetPath(
         projectId,
@@ -112,7 +112,7 @@ async function getSimilarProductsFile() {
         // image: {source: {gcsImageUri: filePath}}
         // To use HTTP link replace with below code
         // image: {source: {imageUri: filePath}}
-        image: { source: { gcsImageUri: filePath } },
+        image: { source: { imageUri: filePath } },
         features: [{ type: 'PRODUCT_SEARCH' }],
         imageContext: {
             productSearchParams: {
@@ -125,15 +125,62 @@ async function getSimilarProductsFile() {
     const [response] = await imageAnnotatorClient.batchAnnotateImages({
         requests: [request],
     });
+    const error = response.responses[0].error;
     console.log('Search Image:', filePath);
     console.log(response.responses[0].error);
+    if (error) {
+        return;
+    }
     const results = response['responses'][0]['productSearchResults']['results'];
     console.log('\nSimilar product information:');
     results.forEach(result => {
-        console.log('Product id:', result['product'].name.split('/').pop(-1));
-        console.log('Product display name:', result['product'].displayName);
-        console.log('Product description:', result['product'].description);
-        console.log('Product category:', result['product'].productCategory);
+        //console.log('Product id:', result['product'].name.split('/').pop(-1));
+        const productId = result['product'].name.split('/').pop(-1);
+        listReferenceImage(productId);
+        //console.log('Product display name:', result['product'].displayName);
+        //console.log('Product description:', result['product'].description);
+        //console.log('Product category:', result['product'].productCategory);
     });
 }
-//getSimilarProductsFile();
+getSimilarProductsFile();
+
+
+async function listProductsInProductSet() {
+
+    const projectId = cred.project_id;
+    const location = 'asia-east1';
+    const productSetId = 'sneaker';
+    const productSetPath = client.productSetPath(
+        projectId,
+        location,
+        productSetId
+    );
+    const request = {
+        name: productSetPath,
+    };
+
+    const [products] = await client.listProductsInProductSet(request);
+    products.forEach(async (product) => {
+        console.log(product);
+        const id = product.name.split('/').pop();
+        await listReferenceImage(id);
+    });
+}
+//listProductsInProductSet();
+
+async function listReferenceImage(productId) {
+
+    const projectId = cred.project_id;
+
+    //const formattedParent = client.productPath(projectId, location, productId);
+    const location = 'asia-east1';
+    const formattedParent = client.productPath(projectId, location, productId);
+    const request = {
+        parent: formattedParent,
+    };
+
+    const [response] = await client.listReferenceImages(request);
+    response.forEach(image => {
+        console.log(`image.uri: ${image.uri}`);
+    });
+}
