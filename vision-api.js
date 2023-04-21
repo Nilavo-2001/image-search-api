@@ -184,7 +184,6 @@ async function uploadFile(destFileName, filePath) {
     console.log(`${filePath} uploaded to ${bucketName}`);
 }
 module.exports = {
-    importProductSets,
     getSimilarProductsFile,
     listProductsInProductSet,
     listReferenceImage,
