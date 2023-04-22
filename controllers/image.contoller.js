@@ -53,9 +53,6 @@ async function getSimillarProduct(req, res) {
         })
     } catch (error) {
         return res.status(500).json({
-            data: {
-                products
-            },
             msg: "Failed to find simillar products"
         })
     }
